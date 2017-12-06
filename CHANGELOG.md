@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.8.1
+
+###### Enhancements
+
+* Add the JUnit `time` attribute on a failed tests.
+  | [#204](https://github.com/supermarin/xcpretty/pull/204)
+
 ## 0.2.6
 
 * Codesigning matchers improvements
